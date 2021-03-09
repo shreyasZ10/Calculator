@@ -1,0 +1,18 @@
+body  
+{  
+background-color:tan;  
+} 
+.frame  
+{  
+background-color:#3d4543;  
+height:460px;  
+width:250px;  
+border-radius:10px;  
+position:relative;  
+top:80px;  
+left:40%;  
+} 
+
+
+
+.btn {width:5%;}
